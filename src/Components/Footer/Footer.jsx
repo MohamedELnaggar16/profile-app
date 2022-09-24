@@ -5,7 +5,7 @@ export default class Footer extends Component {
     return (
       <>
       <footer className='mt-5 bg-success text-white text-center p-3'>
-          Copyright © Your Website 2021 
+          Copyright © Mohamed ELnaggar 2021 
       </footer>
       </>
     )
